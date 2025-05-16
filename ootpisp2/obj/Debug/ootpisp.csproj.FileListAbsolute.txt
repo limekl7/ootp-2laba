@@ -1,0 +1,13 @@
+C:\Users\User\Source\Repos\ootpisp2\bin\Debug\ootpisp.exe.config
+C:\Users\User\Source\Repos\ootpisp2\bin\Debug\ootpisp.exe
+C:\Users\User\Source\Repos\ootpisp2\bin\Debug\ootpisp.pdb
+C:\Users\User\Source\Repos\ootpisp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Source\Repos\ootpisp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Source\Repos\ootpisp2\obj\Debug\ootpisp.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\ootpisp2\obj\Debug\ootpisp.Form1.resources
+C:\Users\User\Source\Repos\ootpisp2\obj\Debug\ootpisp.Properties.Resources.resources
+C:\Users\User\Source\Repos\ootpisp2\obj\Debug\ootpisp.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\ootpisp2\obj\Debug\ootpisp.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\ootpisp2\obj\Debug\ootpisp.csproj.Up2Date
+C:\Users\User\Source\Repos\ootpisp2\obj\Debug\ootpisp.exe
+C:\Users\User\Source\Repos\ootpisp2\obj\Debug\ootpisp.pdb
